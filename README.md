@@ -1,4 +1,4 @@
-oT Telemetry, Attack Simulation, and Security Analysis
+IoT Telemetry, Attack Simulation, and Security Analysis
 
 This repository contains code notebooks and datasets for research and projects related to IoT telemetry, attack simulation, and security frameworks, including access control and blockchain. The materials are intended for use in simulation, data analysis, and experiments involving IoT systems and their security.
 Repository Structure
